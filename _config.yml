@@ -1,0 +1,11 @@
+# Site settings
+title: Relevant Miscellany
+# email: your-email@domain.com
+description: Data Science, Drawings of Birds, And More.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: dodger487
+github_username:  dodger487
+
+# Build settings
+markdown: kramdown
