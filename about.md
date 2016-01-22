@@ -1,20 +1,30 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-Hello, this is my blog.
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-I'm a Ph.D. at Columbia University in Computer Science, where I do research on topics like machine learning, privacy, economics, and location data.
-I spend a lot of time volunteering, teaching programming in local high schools with [ScriptEd](http://scripted.org) or on Rikers Island with [RikersBot](http://www.digitalstorytellinglab.com/projects/rikers-bot/)
-I also like to draw birds.
-I write about learning CS, data science, surviving grad school, privacy, and drawing birds.
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
+There are currently two themes built on Poole:
 
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Learn more and contribute on [GitHub](https://github.com/poole).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+## Setup
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
