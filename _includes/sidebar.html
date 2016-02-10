@@ -29,7 +29,14 @@
       <a class="sidebar-nav-item" href="http://www.criederer.com">Even More About</a>
       <a class="sidebar-nav-item" href="http://www.ohyeahcapybara.com">Capybaras</a>
       <br />
-      <a class="sidebar-nav-item" href="mailto:{{ site.email }}">Email</a>
+      <form method='post' action='http://blogtrottr.com'>
+          Subscribe: <input type='text' name='btr_email' placeholder="(Your email)" /><br />
+          <input type='hidden' name='btr_url' value='http://http://dodger487.github.io/feed' />
+          <input type='hidden' name='schedule_type' value='0' />
+          <input type='submit' value='Follow this feed via email' />
+      </form>
+      <br />
+      <a class="sidebar-nav-item" href="mailto:{{ site.email }}">Contact</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
