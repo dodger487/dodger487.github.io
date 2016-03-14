@@ -3,6 +3,7 @@ layout: post
 title:  "How to start programming"
 date:   2016-03-14 11:50:00
 categories: edu
+comments: true
 ---
 
 How to start programming: 
