@@ -91,11 +91,12 @@ In style 3, why not add a notch that shows you how far up the spectrum you are?
 Why not make the symbols a little bigger?
 What about making the gear shifters a different color from the handle to visually distinguish them?
 
+## Conclusion
 There you have it, a few hundred words to tell you that I get angry because I don't know whether to push or pull to shift gears on my bike.
-But looking bigger than just me, in 2016, there were **14 million** Citi Bike rides in NYC.
+But looking beyond my experience, in 2016, there were **14 million** Citi Bike rides in NYC.
 How many times did someone push instead of pull, shift up instead of down, and come to a dead stop on a busy hill?
 I have no insight into the internals of their bike design, but it seems like a little more thought (or maybe money?) could have kept a consistent approach across bikes.
 
 Citi Bike is a great program.
 I'm definitely going to keep using it and I'm excited to try the continuous gear bike again.
-I hope that moving forward, they'll try to keep consistent mappings to make riding even more effortless and enjoyable.
+I hope that moving forward, they'll work to keep consistent mappings across bikes to make riding even more effortless and enjoyable.
