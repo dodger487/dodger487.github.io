@@ -10,7 +10,7 @@ title:            Relevant Miscellany
 tagline:          'Data Science and Drawings of Birds'
 description:      'Data Science and Drawings of Birds'
 url:              http://dodger487.github.io
-baseurl:          /
+# baseurl:          http://dodger487.github.io/
 
 author:
   name:           'Chris Riederer'
@@ -21,7 +21,7 @@ email:            OfficialChrisEmail@gmail.com
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          2.1.0 
 
 github:
   repo:           https://github.com/poole/hyde
