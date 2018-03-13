@@ -80,7 +80,7 @@ And that is my toad-infused explanation of simulated annealing.
 
 # Implementation
 
-The cool this about simulated annealing is that it's pretty simple to code.
+A cool thing about simulated annealing is that it's pretty simple to code.
 I decided to give this a swing, and I wrote up a github package in Python that does this, so you too can make different graphs with the same stats.
 You can easily create datasets or even gifs that show the transformations.
 Just give it a `git clone` and the `make_dataset_cmd.py` has pretty good internal documentation.
