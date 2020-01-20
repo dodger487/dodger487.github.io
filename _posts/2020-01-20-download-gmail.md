@@ -55,6 +55,12 @@ When creating the filter, make sure to select "Apply filter to matching emails."
 The emails I was looking for were first sent to an email list managed by our college's IT department and later to a Google Group.
 With some experimentation filtering on the "to:" field, I was reasonably certain I grabbed most of the emails I wanted.
 
+Note that you can use labeling and filtering to download whatever subset of emails you want.
+Maybe you want to look at the vocab you used when sending emails over a specific period of time.
+Maybe you want to analyze political fundraising emails.
+Perhaps you want all the Amazon receipts you've ever received.
+Who knows!
+
 It may take a while for Takeout to generate your data, depending on the volume.
 You can check back in a few hours or even days (I didn't see an email notification when my data was ready.)
 
