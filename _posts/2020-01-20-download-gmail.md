@@ -6,10 +6,10 @@ categories: scraping deeplearning
 comments: true
 ---
 
-**This is part 1 of a 4-ish (or more? or less??) part series describing how to train a bot to write emails like your friends.**
+*This is part 1 of a 4-ish (or more? or less??) part series describing how to train a bot to write emails like your friends.*
 
 - Part 1: How to download your emails from Google (This post)
-- Part 2: How to extract relevant text from the the mbox file format
+- Part 2: [How to extract relevant text from the the mbox file format]({% post_url 2020-01-29-processing-mbox %})
 - Part 3: How to train GPT2 on your text (for free!) using Google Colab
 - Part 4: Visualizing you email data with ggplot2
 
