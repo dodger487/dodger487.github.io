@@ -8,11 +8,19 @@ comments: true
 
 ![how does babby sleep](/figs/2020-05-26-baby-viz/lineplot_python.png)
 
+*This is part of a series on visualizing baby sleep data with Python and R. All code is in [this repository.](https://github.com/dodger487/snoo_plots)*
+
+- *[Visualizing Baby Sleep Times in Python]({% post_url 2020-05-26-visualizing-baby-sleep %})*
+- *[Recreating the 'Most Beautiful Data Visualization of All Time']({% post_url 2020-06-01-baby-sleep-radial %})*
+- *[Night and Day, Python and R: Baby Sleep Data Analysis with Siuba]({% post_url 2020-06-10-baby-sleep-night-day %})*
+
+# Baby Sleep Data
+
 My baby sleeps in a fancy bassinet that records her sleep times.
 I wanted to see how her sleep patterns have trended over time, going from soul-crushing randomness to the more pleasant actually-sleeping-most-of-the-night schedule.
 Additionally, I wanted to take the [plotnine](https://plotnine.readthedocs.io/en/stable/) plotting library for a spin.
 
-All of the code is [here in this gist](https://gist.github.com/dodger487/253148ce84c355a21f2f3eb56c852819).
+All of the code is [this repository.](https://github.com/dodger487/snoo_plots/blob/master/snoo_viz.py)
 
 ## Preliminaries
 

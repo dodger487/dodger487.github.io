@@ -8,6 +8,14 @@ comments: true
 
 ![most beautiful data viz... of all time!](/figs/snooplots/polar_lineplot_colorful.svg)
 
+*This is part of a series on visualizing baby sleep data with Python and R. All code is in [this repository.](https://github.com/dodger487/snoo_plots)*
+
+- *[Visualizing Baby Sleep Times in Python]({% post_url 2020-05-26-visualizing-baby-sleep %})*
+- *[Recreating the 'Most Beautiful Data Visualization of All Time']({% post_url 2020-06-01-baby-sleep-radial %})*
+- *[Night and Day, Python and R: Baby Sleep Data Analysis with Siuba]({% post_url 2020-06-10-baby-sleep-night-day %})*
+
+# Beautiful Baby Sleep
+
 After I posted [a plot of baby's sleep times]({% post_url 2020-05-26-visualizing-baby-sleep %}), someone on Twitter asked for a radial plot version.
 A friend pointed out that a radial plot of a baby's sleep times was referenced in [this Washington Post article](https://www.washingtonpost.com/news/wonk/wp/2017/01/05/what-its-like-to-sleep-like-a-baby-visualized-by-a-dad/), which claims "This is the most beautiful data visualization of all time, according to Reddit."
 Clearly this is a case of a headline writer going nuts in search of those sweet, sweet clicks, as I think a more accurate headline would be "this is currently the most upvoted thing on r/dataisbeautiful".
@@ -39,7 +47,7 @@ If all you care about is looking at how I made the plot, you can skip to part 2.
 
 I used R's ggplot2 graphing library for this post.
 My previous post used Python's [plotnine](https://plotnine.readthedocs.io/en/stable/), but the crucial `coord_polar` is not ported as of this post's writing.
-My code for this post [is available in this gist here](https://gist.github.com/dodger487/67b4bd0bccb7a24808a5503074b035b6).
+My code for this post [is available in this github repo](https://github.com/dodger487/snoo_plots/blob/master/radial_plot.R).
 
 # Part 1: Iterative Exploration
 

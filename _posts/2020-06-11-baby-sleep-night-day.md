@@ -6,6 +6,14 @@ categories: python R data
 comments: true
 ---
 
+*This is part of a series on visualizing baby sleep data with Python and R. All code is in [this repository.](https://github.com/dodger487/snoo_plots)*
+
+- *[Visualizing Baby Sleep Times in Python]({% post_url 2020-05-26-visualizing-baby-sleep %})*
+- *[Recreating the 'Most Beautiful Data Visualization of All Time']({% post_url 2020-06-01-baby-sleep-radial %})*
+- *[Night and Day, Python and R: Baby Sleep Data Analysis with Siuba]({% post_url 2020-06-10-baby-sleep-night-day %})*
+
+# More Baby Sleep Data!
+
 I've continued to have fun graphing my baby's sleep times with data recorded from her fancy bassinet.
 We've had some... interesting... experiences learning about our infant's sleep patterns and how they change over time.
 The plots today show the shift from our baby's time napping to time sleeping at night.
